@@ -1,0 +1,15 @@
+{% extends 'index.html' %}
+
+{% block main_block %}
+
+<main role="main" class="container">
+    <div class="row" style="margin-top: 70px;">
+        <div class="col-md-6 offset-md-3">
+            <img src="{{ url_for('live_stream') }}" alt="">
+        </div>
+    </div>
+    
+  </main>
+  <a class="btn btn-warning btn-lg" href="{{ url_for('index') }}">Return To Home Page</a>
+
+{% endblock main_block %}
