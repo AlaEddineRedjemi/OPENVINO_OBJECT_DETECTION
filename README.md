@@ -9,3 +9,4 @@ this app uses a pre-trained model from the object detection model zoo from tenso
 on the main web page of the app you can choose to upload an image or a video or live stream from your camera
 # Note:
 AS THIS IS A PROJECT FOR MY PROJECT SHOWCASE EVENT ON UDACITY COURSE, IT MIGHT NOT WORK COMPLETELY WITH ALL THE MENTIONED FUNCIONALITIES DUE TO THE FACT THAT THE IMPLEMENTATIONS IS NOT FULLY TESTED IN DIFFERENT SITUATIONS!
+* 
