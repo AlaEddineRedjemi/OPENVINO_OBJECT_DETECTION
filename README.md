@@ -7,5 +7,6 @@ this app uses a pre-trained model from the object detection model zoo from tenso
 * Intel OPENVINO Toolkit
 ## Usage:
 on the main web page of the app you can choose to upload an image or a video or live stream from your camera
+Note that you must have the model Intermediate Representation .xml and .bin files of the [ssd_mobilenet_v2_coco] in the home directory!
 # Note:
 AS THIS IS A PROJECT FOR MY PROJECT SHOWCASE EVENT ON UDACITY COURSE, IT MIGHT NOT WORK COMPLETELY WITH ALL THE MENTIONED FUNCIONALITIES DUE TO THE FACT THAT THE IMPLEMENTATIONS IS NOT FULLY COMPLETED AND TESTED IN DIFFERENT SITUATIONS!
